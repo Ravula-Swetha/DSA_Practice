@@ -54,10 +54,11 @@ Constraints
 0 <= fuel[i], cost[i] <= 10⁴
 The space stations are arranged in a circular path.
  */
-public class feul {
-    import java.util.*;
+import java.util.*;
+ public class feul {
 
-class Solution{
+
+
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -99,4 +100,4 @@ class Solution{
         
     }
 }
-}
+

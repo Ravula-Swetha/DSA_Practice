@@ -1,4 +1,4 @@
-public Rotational Challenge
+/* Rotational Challenge
 
 Shyam loves playing with numbers, and today he has a list of integers. 
 His challenge is to rotate the list multiple times and find the largest possible sum based on a unique formula.
@@ -38,3 +38,6 @@ Input: 1
 Output: 0 {
     
 }
+*/
+
+public static 
